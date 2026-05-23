@@ -3,7 +3,7 @@
 * [2.0 Methodology](https://github.com/skddedm/Retail-Store-Account-Receivable-Analysis/blob/main/README.md#20-methodology)
 * [3.0 Project Outcomes](https://github.com/skddedm/Retail-Store-Account-Receivable-Analysis/blob/main/README.md#30-project-outcomes)
 * [4.0 Details of Key Objective Areas](https://github.com/skddedm/Retail-Store-Account-Receivable-Analysis/blob/main/README.md#40-details-of-key-objective-areas)
-* 
+* [5.0 Strategy Recommendations](https://github.com/skddedm/Retail-Store-Account-Receivable-Analysis/blob/main/README.md#50-strategy-recommendations)
 
 
 
