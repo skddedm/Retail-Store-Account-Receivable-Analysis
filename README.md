@@ -1,3 +1,8 @@
+# Table of Content
+* [1.0 Executive Summary](https://github.com/skddedm/Retail-Store-Account-Receivable-Analysis/blob/main/README.md#10-executive-summary)
+* 
+
+
 # 1.0 Executive Summary
 The credit phenomenon has many advantages for both the creditor and the debtor if managed within defined, understood and followed guidelines limiting the major risk of default and undue extended payment periods.
 
